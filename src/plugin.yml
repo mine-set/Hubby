@@ -1,0 +1,6 @@
+name: Hubby
+version: 1.0
+main: net.mineset.hubby.Hubby
+author: dis#0001
+commands:
+  swaplobby:

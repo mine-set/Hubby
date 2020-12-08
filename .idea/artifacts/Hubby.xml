@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hubby">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="Hubby.jar">
+      <element id="module-output" name="Hubby" />
+    </root>
+  </artifact>
+</component>
